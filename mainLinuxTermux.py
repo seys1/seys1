@@ -45,6 +45,7 @@ async def HPV_Start_Attacks(number: str, replay: int):
 
 if __name__ == '__main__':
     while True:
+        print('\nСоздатель @seys666228\n')
         number = input('Номер: +7')
         replay = int(input('Количество повторений: '))
 
